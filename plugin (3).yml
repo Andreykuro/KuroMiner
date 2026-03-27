@@ -1,0 +1,8 @@
+---
+name: KuroMiner
+version: 0.0.1
+main: Andreykuro\KuroMiner\Main
+api: 5.42.0
+depend:
+  - SimpleEconomy
+...
